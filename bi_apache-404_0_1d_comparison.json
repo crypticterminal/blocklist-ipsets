@@ -1,0 +1,128 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 14433,
+		"common": 2
+	},
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 227,
+		"common": 2
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 882,
+		"common": 2
+	},
+	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3116,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 43253,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 181505,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 94681,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new",
+		"category": "abuse",
+		"ips": 1187,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new_1d",
+		"category": "abuse",
+		"ips": 2791,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new_30d",
+		"category": "abuse",
+		"ips": 47398,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new_7d",
+		"category": "abuse",
+		"ips": 13695,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 45606,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 206967,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 105157,
+		"common": 1
+	},
+	{
+		"name": "cybercrime",
+		"category": "malware",
+		"ips": 1204,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 50887,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 345647,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 53537,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9381681,
+		"common": 1
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 6185,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2809,
+		"common": 1
+	}
+]

@@ -1,0 +1,214 @@
+[
+	{
+		"code": "AR",
+		"value": 1
+	},
+	{
+		"code": "AT",
+		"value": 1
+	},
+	{
+		"code": "AU",
+		"value": 2
+	},
+	{
+		"code": "BE",
+		"value": 1
+	},
+	{
+		"code": "BG",
+		"value": 2
+	},
+	{
+		"code": "BR",
+		"value": 11
+	},
+	{
+		"code": "CA",
+		"value": 4
+	},
+	{
+		"code": "CL",
+		"value": 9
+	},
+	{
+		"code": "CN",
+		"value": 14
+	},
+	{
+		"code": "CO",
+		"value": 1
+	},
+	{
+		"code": "CZ",
+		"value": 1
+	},
+	{
+		"code": "DE",
+		"value": 14
+	},
+	{
+		"code": "DK",
+		"value": 4
+	},
+	{
+		"code": "EE",
+		"value": 1
+	},
+	{
+		"code": "EG",
+		"value": 1
+	},
+	{
+		"code": "ES",
+		"value": 10
+	},
+	{
+		"code": "EU",
+		"value": 1
+	},
+	{
+		"code": "FI",
+		"value": 1
+	},
+	{
+		"code": "FR",
+		"value": 26
+	},
+	{
+		"code": "GB",
+		"value": 18
+	},
+	{
+		"code": "GE",
+		"value": 3
+	},
+	{
+		"code": "HK",
+		"value": 6
+	},
+	{
+		"code": "HU",
+		"value": 1
+	},
+	{
+		"code": "ID",
+		"value": 14
+	},
+	{
+		"code": "IE",
+		"value": 1
+	},
+	{
+		"code": "IL",
+		"value": 1
+	},
+	{
+		"code": "IN",
+		"value": 2
+	},
+	{
+		"code": "IR",
+		"value": 9
+	},
+	{
+		"code": "IT",
+		"value": 4
+	},
+	{
+		"code": "JP",
+		"value": 6
+	},
+	{
+		"code": "KE",
+		"value": 2
+	},
+	{
+		"code": "KR",
+		"value": 6
+	},
+	{
+		"code": "KZ",
+		"value": 2
+	},
+	{
+		"code": "LT",
+		"value": 2
+	},
+	{
+		"code": "MY",
+		"value": 6
+	},
+	{
+		"code": "NL",
+		"value": 16
+	},
+	{
+		"code": "PA",
+		"value": 1
+	},
+	{
+		"code": "PE",
+		"value": 2
+	},
+	{
+		"code": "PL",
+		"value": 8
+	},
+	{
+		"code": "RO",
+		"value": 5
+	},
+	{
+		"code": "RU",
+		"value": 13
+	},
+	{
+		"code": "SA",
+		"value": 1
+	},
+	{
+		"code": "SG",
+		"value": 5
+	},
+	{
+		"code": "SI",
+		"value": 2
+	},
+	{
+		"code": "SK",
+		"value": 2
+	},
+	{
+		"code": "TH",
+		"value": 12
+	},
+	{
+		"code": "TR",
+		"value": 23
+	},
+	{
+		"code": "TW",
+		"value": 3
+	},
+	{
+		"code": "UA",
+		"value": 4
+	},
+	{
+		"code": "US",
+		"value": 171
+	},
+	{
+		"code": "UZ",
+		"value": 1
+	},
+	{
+		"code": "VN",
+		"value": 26
+	},
+	{
+		"code": "ZA",
+		"value": 2
+	}
+]

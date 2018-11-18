@@ -1,0 +1,50 @@
+[
+	{
+		"code": "CA",
+		"value": 3
+	},
+	{
+		"code": "DE",
+		"value": 10
+	},
+	{
+		"code": "FI",
+		"value": 1
+	},
+	{
+		"code": "FR",
+		"value": 14
+	},
+	{
+		"code": "IS",
+		"value": 21
+	},
+	{
+		"code": "MY",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 4
+	},
+	{
+		"code": "PS",
+		"value": 13
+	},
+	{
+		"code": "RO",
+		"value": 1
+	},
+	{
+		"code": "RU",
+		"value": 4
+	},
+	{
+		"code": "SG",
+		"value": 1
+	},
+	{
+		"code": "US",
+		"value": 6
+	}
+]

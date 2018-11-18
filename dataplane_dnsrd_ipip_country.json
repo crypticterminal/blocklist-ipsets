@@ -1,0 +1,90 @@
+[
+	{
+		"code": "BACKBONE",
+		"value": 1
+	},
+	{
+		"code": "BR",
+		"value": 15
+	},
+	{
+		"code": "CA",
+		"value": 1
+	},
+	{
+		"code": "CN",
+		"value": 33
+	},
+	{
+		"code": "DE",
+		"value": 22
+	},
+	{
+		"code": "ES",
+		"value": 1
+	},
+	{
+		"code": "FR",
+		"value": 5
+	},
+	{
+		"code": "GB",
+		"value": 13
+	},
+	{
+		"code": "GR",
+		"value": 1
+	},
+	{
+		"code": "HK",
+		"value": 1
+	},
+	{
+		"code": "IN",
+		"value": 3
+	},
+	{
+		"code": "IS",
+		"value": 1
+	},
+	{
+		"code": "IT",
+		"value": 1
+	},
+	{
+		"code": "JP",
+		"value": 2
+	},
+	{
+		"code": "MY",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 66
+	},
+	{
+		"code": "RO",
+		"value": 3
+	},
+	{
+		"code": "SE",
+		"value": 1
+	},
+	{
+		"code": "SG",
+		"value": 1
+	},
+	{
+		"code": "TR",
+		"value": 3
+	},
+	{
+		"code": "US",
+		"value": 255
+	},
+	{
+		"code": "VN",
+		"value": 2
+	}
+]

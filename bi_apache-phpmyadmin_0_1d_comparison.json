@@ -1,0 +1,200 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 63479,
+		"common": 2
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 14433,
+		"common": 15
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 15622,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 2139,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 32030,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 13504,
+		"common": 1
+	},
+	{
+		"name": "bi_apache-modsec_0_1d",
+		"category": "attacks",
+		"ips": 43,
+		"common": 2
+	},
+	{
+		"name": "bi_apache-noscript_0_1d",
+		"category": "attacks",
+		"ips": 88,
+		"common": 2
+	},
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 227,
+		"common": 15
+	},
+	{
+		"name": "bi_apache_1_7d",
+		"category": "attacks",
+		"ips": 33,
+		"common": 1
+	},
+	{
+		"name": "bi_apache_2_30d",
+		"category": "attacks",
+		"ips": 80,
+		"common": 1
+	},
+	{
+		"name": "bi_cms_0_1d",
+		"category": "attacks",
+		"ips": 565,
+		"common": 1
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 882,
+		"common": 15
+	},
+	{
+		"name": "bi_http_1_7d",
+		"category": "attacks",
+		"ips": 1114,
+		"common": 1
+	},
+	{
+		"name": "bi_http_2_30d",
+		"category": "attacks",
+		"ips": 3022,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 5437,
+		"common": 1
+	},
+	{
+		"name": "bi_sshd_0_1d",
+		"category": "attacks",
+		"ips": 3700,
+		"common": 1
+	},
+	{
+		"name": "cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 9541,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 87353124,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9381681,
+		"common": 4
+	},
+	{
+		"name": "gpf_comics",
+		"category": "abuse",
+		"ips": 1046,
+		"common": 1
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 39651,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 9575,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227995075,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 8933120,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 754571144,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338112778,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137275567,
+		"common": 2
+	},
+	{
+		"name": "normshield_all_webscan",
+		"category": "attacks",
+		"ips": 1479,
+		"common": 2
+	},
+	{
+		"name": "normshield_high_webscan",
+		"category": "attacks",
+		"ips": 1412,
+		"common": 2
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 17839,
+		"common": 1
+	}
+]

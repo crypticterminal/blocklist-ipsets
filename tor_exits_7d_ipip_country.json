@@ -1,0 +1,230 @@
+[
+	{
+		"code": "AR",
+		"value": 1
+	},
+	{
+		"code": "AT",
+		"value": 6
+	},
+	{
+		"code": "AU",
+		"value": 5
+	},
+	{
+		"code": "BD",
+		"value": 1
+	},
+	{
+		"code": "BE",
+		"value": 1
+	},
+	{
+		"code": "BG",
+		"value": 12
+	},
+	{
+		"code": "BR",
+		"value": 23
+	},
+	{
+		"code": "CA",
+		"value": 52
+	},
+	{
+		"code": "CH",
+		"value": 15
+	},
+	{
+		"code": "CI",
+		"value": 1
+	},
+	{
+		"code": "CL",
+		"value": 2
+	},
+	{
+		"code": "CR",
+		"value": 1
+	},
+	{
+		"code": "CZ",
+		"value": 17
+	},
+	{
+		"code": "DE",
+		"value": 120
+	},
+	{
+		"code": "DK",
+		"value": 3
+	},
+	{
+		"code": "DO",
+		"value": 1
+	},
+	{
+		"code": "DZ",
+		"value": 6
+	},
+	{
+		"code": "ES",
+		"value": 4
+	},
+	{
+		"code": "EU",
+		"value": 1
+	},
+	{
+		"code": "FI",
+		"value": 12
+	},
+	{
+		"code": "FR",
+		"value": 120
+	},
+	{
+		"code": "GB",
+		"value": 22
+	},
+	{
+		"code": "HK",
+		"value": 7
+	},
+	{
+		"code": "HR",
+		"value": 1
+	},
+	{
+		"code": "HU",
+		"value": 6
+	},
+	{
+		"code": "ID",
+		"value": 5
+	},
+	{
+		"code": "IE",
+		"value": 2
+	},
+	{
+		"code": "IL",
+		"value": 1
+	},
+	{
+		"code": "IN",
+		"value": 3
+	},
+	{
+		"code": "IR",
+		"value": 1
+	},
+	{
+		"code": "IS",
+		"value": 9
+	},
+	{
+		"code": "IT",
+		"value": 6
+	},
+	{
+		"code": "JP",
+		"value": 21
+	},
+	{
+		"code": "KR",
+		"value": 2
+	},
+	{
+		"code": "LT",
+		"value": 6
+	},
+	{
+		"code": "LU",
+		"value": 9
+	},
+	{
+		"code": "LV",
+		"value": 5
+	},
+	{
+		"code": "MD",
+		"value": 31
+	},
+	{
+		"code": "MY",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 104
+	},
+	{
+		"code": "NO",
+		"value": 8
+	},
+	{
+		"code": "NZ",
+		"value": 2
+	},
+	{
+		"code": "PL",
+		"value": 31
+	},
+	{
+		"code": "PT",
+		"value": 3
+	},
+	{
+		"code": "RO",
+		"value": 40
+	},
+	{
+		"code": "RU",
+		"value": 45
+	},
+	{
+		"code": "SE",
+		"value": 42
+	},
+	{
+		"code": "SG",
+		"value": 11
+	},
+	{
+		"code": "SI",
+		"value": 1
+	},
+	{
+		"code": "SK",
+		"value": 4
+	},
+	{
+		"code": "TH",
+		"value": 3
+	},
+	{
+		"code": "TR",
+		"value": 5
+	},
+	{
+		"code": "TW",
+		"value": 6
+	},
+	{
+		"code": "UA",
+		"value": 85
+	},
+	{
+		"code": "US",
+		"value": 169
+	},
+	{
+		"code": "VN",
+		"value": 1
+	},
+	{
+		"code": "ZA",
+		"value": 6
+	}
+]
